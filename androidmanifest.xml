@@ -1,0 +1,4 @@
+<activity android:name=".LL"/>
+        <activity android:name=".RL"/>
+        <activity android:name=".TL"/>
+        <activity android:name=".GL"/>
